@@ -1,4 +1,13 @@
-*{
+
+
+body {
+	background-color: rgb(220, 107, 126);
+	
+	background-image: linear-gradient(to top, rgb(95, 202, 238) 0%, rgb(201, 145, 195) 100%);
+	}
+	
+	*{
+	background-color: rgb(173, 119, 221);
 	margin: 0;
 	padding: 0;
 }
