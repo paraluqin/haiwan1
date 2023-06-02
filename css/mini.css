@@ -1,13 +1,4 @@
-
-
-body {
-	background-color: rgb(220, 107, 126);
-	
-	background-image: linear-gradient(to top, rgb(95, 202, 238) 0%, rgb(201, 145, 195) 100%);
-	}
-	
-	*{
-	background-color: rgb(173, 119, 221);
+*{
 	margin: 0;
 	padding: 0;
 }
@@ -96,7 +87,7 @@ img:hover
 }
 .main
 {
-	
+	position: relative;
 }
 .main-img
 {
@@ -145,6 +136,7 @@ img:hover
 }
 .main-img>div:nth-child(7)
 {
+	background-color: rgb(54, 101, 71);
 	position: absolute;
 	left: 1070px;
 	top: 240px;
@@ -157,4 +149,3 @@ img:hover
 	top: 450px;
 	transform: rotate(-18deg);
 }
-
